@@ -1,0 +1,10 @@
+p {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    max-width: 100%;
+    box-sizing: border-box;
+    font-family: monospace;
+    padding: 1rem;
+    background: #f9f9f9;
+    border-radius: 6px;
+}
