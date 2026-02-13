@@ -26,8 +26,8 @@ All pages use Bootstrap and custom CSS for consistent styling.
 License
 
 This project is licensed under the Apache License 2.0.
-You keep full copyright.
-Anyone who uses or shares this work must give you credit.
+I keep full copyright.
+Anyone who uses or shares this work must give me credit.
 
 Attribution
 
